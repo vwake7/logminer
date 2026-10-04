@@ -1,0 +1,22 @@
+# Go
+/bin/
+/dist/
+*.test
+*.out
+
+# Coverage
+coverage.out
+coverage.html
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Profiling
+*.prof
+
+# Temporary
+tmp/
